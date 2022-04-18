@@ -1,0 +1,37 @@
+19-04-2022 00:47:09.680 [Gauge] [INFO] Watching directory: C:\Users\Dell\IdeaProjects\gauge-whout-json\specs
+19-04-2022 00:47:09.683 [Gauge] [DEBUG] Found 1 files
+19-04-2022 00:47:09.684 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-04-2022 00:47:09.687 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-04-2022 00:47:09.687 [Gauge] [DEBUG] Adding specs from C:\Users\Dell\IdeaProjects\gauge-whout-json\specs\example.spec
+19-04-2022 00:47:09.687 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-04-2022 00:47:09.687 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55265
+19-04-2022 00:47:25.004 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> saniye bekle" > 
+19-04-2022 00:47:25.010 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<key> saniye bekle" parameters:"key" > > 
+19-04-2022 00:47:25.137 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementine tikla" > 
+19-04-2022 00:47:25.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<key> elementine tikla" parameters:"key" > > 
+19-04-2022 00:47:25.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini yazdir" > 
+19-04-2022 00:47:25.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini yazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini yazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:47:25.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+19-04-2022 00:47:25.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+19-04-2022 00:47:25.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+19-04-2022 00:47:25.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+19-04-2022 00:47:25.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+19-04-2022 00:47:25.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+19-04-2022 00:48:26.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini cssyazdir" > 
+19-04-2022 00:48:26.323 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini cssyazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini cssyazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:26.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini css yazdir" > 
+19-04-2022 00:48:26.948 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini css yazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini css yazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:28.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini cssseleyazdir" > 
+19-04-2022 00:48:28.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini cssseleyazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini cssseleyazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:31.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini cssselector ile yazdir" > 
+19-04-2022 00:48:31.703 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini cssselector ile yazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini cssselector ile yazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:34.705 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini xpath yazdir" > 
+19-04-2022 00:48:34.717 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini xpath yazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini xpath yazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:36.202 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementi bul ve <text> degerini xpath ile yazdir" > 
+19-04-2022 00:48:36.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementi bul ve {} degerini xpath ile yazdir" parameterizedStepValue:"<key> elementi bul ve <text> degerini xpath ile yazdir" parameters:"key" parameters:"text" > > 
+19-04-2022 00:48:42.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> xptahelementine tikla" > 
+19-04-2022 00:48:42.734 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} xptahelementine tikla" parameterizedStepValue:"<key> xptahelementine tikla" parameters:"key" > > 
+19-04-2022 00:48:43.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> xptahli elementine tikla" > 
+19-04-2022 00:48:43.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} xptahli elementine tikla" parameterizedStepValue:"<key> xptahli elementine tikla" parameters:"key" > > 
+19-04-2022 00:48:47.861 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> cssli elementine tikla" > 
+19-04-2022 00:48:47.861 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} cssli elementine tikla" parameterizedStepValue:"<key> cssli elementine tikla" parameters:"key" > > 
