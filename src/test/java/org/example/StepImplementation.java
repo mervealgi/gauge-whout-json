@@ -1,7 +1,5 @@
 package org.example;
 
-
-
 import com.thoughtworks.gauge.Step;
 import org.openqa.selenium.By;
 
